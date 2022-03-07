@@ -1,12 +1,12 @@
 # Desafio-de-programa-o-CAPGEMINI #
 
   Passo 1
-  Faça donwload do arquivo.
+  Faça download do arquivo.
 
   Passo 2
-  Extrai do arquivo.
+  Extrair o arquivo zipado.
 
   Passo 3
-  Abra o arquivo em um compilador java. 
+  Abrir o arquivo em um compilador java. 
 
 
